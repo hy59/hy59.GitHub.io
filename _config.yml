@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
+name: My Blog
 email: hi.yuhang@outlook.com
 author: Chase Huang
-url: http://www.hifreud.com
+url: https://hy59.github.io/
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/hy59/
 baseurl: ""
-description: Actually, less is more!
-meta_description: 黄禹;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+description: To love oneself is the beginning of a lifelong romance. 
+meta_description: 黄禹;个人博客
+motto: 千里之行，始于足下。
+banner: 千里之行，始于足下。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
