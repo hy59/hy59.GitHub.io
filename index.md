@@ -1,3 +1,0 @@
-## This is Chase Huang's Home Page
-
-Building...
